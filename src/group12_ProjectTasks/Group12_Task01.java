@@ -11,7 +11,7 @@ public class Group12_Task01 {
 		 */
 
 		Scanner user = new Scanner (System.in);	
-		int[] num = new int [4];
+		int[] num = new int [5];
 		
 		for (int i = 0; i<num.length; i++) {
 			System.out.println("Please enter a number");
@@ -23,9 +23,6 @@ public class Group12_Task01 {
 			sum += nums;
 		}
 		System.out.println("The sum of all elements is: " + sum);
-		
-		
-		
 		
 		
 		

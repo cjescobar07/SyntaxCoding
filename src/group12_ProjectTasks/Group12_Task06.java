@@ -19,9 +19,9 @@ public class Group12_Task06 {
 		}
 	
 			if (nums==0) {
-				System.out.println("Number is prime");
+				System.out.println("Number " + num+ " is prime");
 			}else 
-				System.out.println("number is not prime");
+				System.out.println("Number "+ nums+ " is not prime");
 		
 		
 		
