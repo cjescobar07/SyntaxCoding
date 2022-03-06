@@ -3,7 +3,9 @@ package com.syntax.class12;
 import java.util.Scanner;
 
 public class Dog {
+	// Everything that ends with a semicolon (;) is a statement
 	// attributes, fields,and properties 
+	
 	String name; 
 	String color;
 	String breed;

@@ -1,7 +1,7 @@
 package com.syntax.class12;
 
 public class BashesCat {
-
+	// Everything that ends with a semicolon (;) is a statement
 	String name; 
 	String color;
 	String breed; 
@@ -10,12 +10,12 @@ public class BashesCat {
 	int weight;
 	
 	void printCompleteInfo() {
-		System.out.println("The name of the cat is " + name);
-		System.out.println("The color of the cat is " + color);
-		System.out.println("The breed of the cat is " + breed);
-		System.out.println("The gender of the cat is " + gender);
-		System.out.println("The age of the cat is " + age);
-		System.out.println("The weight of the cat is " + weight + "lbs");
+		System.out.println("name is " + name);
+		System.out.println("color is " + color);
+		System.out.println("breed is " + breed);
+		System.out.println("gender is " + gender);
+		System.out.println("age is " + age);
+		System.out.println("weight is " + weight + "lbs");
 		}
 	
 	public static void main(String[] args) {
